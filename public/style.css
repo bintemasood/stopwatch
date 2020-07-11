@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right bottom, rgb(120,216,245),rgb(255, 0, 234));;
+    background-image: url(image/bg4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+h1{
+    color: black;
+    display: inline-block;
+    width: 100px;
+    background-color: #fff;
+    
+}
+.ending{
+    padding: 10px 10px 10px 10px;
+    margin-block: 10px;
+}
+#start , #stop, #reset{
+    padding: 5px 10px;
+    background-color: linear-gradient(to right bottom, rgb(120,216,245),rgb(255, 0, 234));;
+}
